@@ -1,7 +1,8 @@
 export default function HeroSection(){
     return(
-        <div>
-            <h1 className="text-center font-bold font-serif">SHAH's CAFE^</h1>
-        </div>
+       <div className="font-semibold text-center text-orange-600">
+        <h1>SHAH & CAFE</h1>
+    </div>
     )
+
 }
